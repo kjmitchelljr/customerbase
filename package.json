@@ -9,7 +9,7 @@
   "author": "KJ Mitchell",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.15.3",
     "express-graphql": "^0.7.1",
     "graphql": "^14.0.2",
     "nodemon": "^1.18.8"
