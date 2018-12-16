@@ -1,0 +1,40 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "KJ Mitchell",
+      "email": "kj@gmail.com",
+      "age": 100
+    },
+    {
+      "id": "3",
+      "name": "Cam Newton",
+      "email": "camnewton@gmail.com",
+      "age": 26
+    },
+    {
+      "id": "4",
+      "name": "LeBron James",
+      "email": "LBJ@gmail.com",
+      "age": 33
+    },
+    {
+      "id": "5",
+      "name": "Will Smith",
+      "email": "freshprince@gmail.com",
+      "age": 53
+    },
+    {
+      "id": "6",
+      "name": "Drake",
+      "email": "drake@gmail.com",
+      "age": 30
+    },
+    {
+      "name": "Harry White",
+      "email": "harry@gmail.com",
+      "age": 39,
+      "id": "WUkpT0e"
+    }
+  ]
+}
